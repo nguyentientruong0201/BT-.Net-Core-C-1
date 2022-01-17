@@ -1,0 +1,16 @@
+D:\VSCFirst\bin\Debug\net5.0\VSCFirst.exe
+D:\VSCFirst\bin\Debug\net5.0\VSCFirst.deps.json
+D:\VSCFirst\bin\Debug\net5.0\VSCFirst.runtimeconfig.json
+D:\VSCFirst\bin\Debug\net5.0\VSCFirst.runtimeconfig.dev.json
+D:\VSCFirst\bin\Debug\net5.0\VSCFirst.dll
+D:\VSCFirst\bin\Debug\net5.0\ref\VSCFirst.dll
+D:\VSCFirst\bin\Debug\net5.0\VSCFirst.pdb
+D:\VSCFirst\obj\Debug\net5.0\VSCFirst.csprojAssemblyReference.cache
+D:\VSCFirst\obj\Debug\net5.0\VSCFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCFirst\obj\Debug\net5.0\VSCFirst.AssemblyInfoInputs.cache
+D:\VSCFirst\obj\Debug\net5.0\VSCFirst.AssemblyInfo.cs
+D:\VSCFirst\obj\Debug\net5.0\VSCFirst.csproj.CoreCompileInputs.cache
+D:\VSCFirst\obj\Debug\net5.0\VSCFirst.dll
+D:\VSCFirst\obj\Debug\net5.0\ref\VSCFirst.dll
+D:\VSCFirst\obj\Debug\net5.0\VSCFirst.pdb
+D:\VSCFirst\obj\Debug\net5.0\VSCFirst.genruntimeconfig.cache
